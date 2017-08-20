@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html><head><title>Listado de notas</title>
+<style type="text/css">
+::-webkit-scrollbar {width: 8px; height: 0px; background: #000;}
+::-webkit-scrollbar-thumb {width: 8px; background-color: #0f0f4f;}
+body{
+	margin-left: 425px;
+	text-transform:uppercase;
+	font-family: verdana;
+	overflow: scroll;
+}
+h1{margin-left: 75px;}
+.etiqueta{
+	background: #0f0f4f;
+	width: 500px;
+	height:20px;
+	margin-top:10px;
+	margin-bottom:10px;
+	padding: 5px;
+	letter-spacing: 1px;
+	font-size: 20px;
+	color:#fbfbfb;
+	text-align: center;
+	}
+li{
+	list-style-type:none;
+	background: #f2f9f8;
+	width: 500px;
+	height: 15px;
+	padding: 5px;
+	color: #000;
+	margin-bottom: -10px;
+	font-size: 12px;
+	text-align: center;
+	</style>
+	</head>
+	<body>
+	<h1>Listado de notas</h1>
